@@ -9,8 +9,8 @@
 
 | Программа              | Как получить полную версию |
 | ---------------------- | -------------------------- |
-| Все программы от Adobe | https://t.me/mindstormm/23 |
-| Figma (Professional)   | https://t.me/mindstormm/20 |
+| Все программы от Adobe | [Ссылка](https://t.me/mindstormm/23) |
+| Figma (Professional)   | [](https://t.me/mindstormm/20) |
 
 ---
 # Програмирование
